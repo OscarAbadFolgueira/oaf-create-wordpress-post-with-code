@@ -1,7 +1,7 @@
 <?php
 /**     
  * Plugin Name: Create a post with code
- * Plugin URI: https://www.oscarabadfolgueira.com/crear-post-wordpress-codigo/
+ * Plugin URI: https://www.oscarabadfolgueira.com/crear-un-post-de-wordpress-con-codigo/
  * Version: 1.0
  * Description: This plugin creates a WordPress post with code.
  * Author: oabadfol
